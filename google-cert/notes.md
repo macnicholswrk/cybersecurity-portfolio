@@ -26,7 +26,7 @@ Prevents financial loss
 Maintains trust and business continuity
 Required for compliance and regulations
 
-
+---
 
 ##  Cybersecurity Roles & Responsibilities
 
@@ -61,7 +61,7 @@ Protect user privacy
 Only access authorized systems
 Follow laws and company policies
 
-
+---
 
 ##  Security Frameworks & Controls
 
@@ -87,7 +87,7 @@ Detective: Logs, alerts, IDS
 Documentation Importance
 Critical for incident response, compliance, communication, and improving security
 
-
+---
 
 ##  Networking & System Security Basics
 
@@ -105,6 +105,8 @@ Keep software updated
 Use strong passwords and MFA
 Limit user access to only what’s necessary
 
+---
+
 ##  Security Operations & Incident Response
 
 Security Operations
@@ -119,6 +121,8 @@ Eradicate – remove threat
 Recover – restore systems
 Lessons learned – improve security
 
+---
+
 ##  Threats & Vulnerabilities
 
 Common Threats
@@ -131,6 +135,8 @@ Use firewalls & antivirus
 Train users
 Monitor logs for unusual behavior
 
+---
+
 ##  Connect and Protect: Networks and Network Security
 
 Network Security Essentials
@@ -142,6 +148,8 @@ Practical Skills
 Understand TCP/IP and protocols
 Use security devices to protect assets
 Apply security principles to network design
+
+---
 
 ##  Put It to Work: Prepare for Cybersecurity Jobs
 
@@ -158,7 +166,7 @@ Job Search Tips
 Apply even if you don’t meet every requirement
 Track applications and follow up consistently
 
-
+---
 
 ##  Accelerate Your Job Search with AI
 
@@ -171,7 +179,7 @@ Always personalize AI outputs
 Use AI to save time, not replace effort
 Combine AI with networking and real-world labs
 
-
+---
 
 ##  Automate Cybersecurity Tasks with Python
 
