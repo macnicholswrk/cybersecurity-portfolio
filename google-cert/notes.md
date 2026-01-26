@@ -1,4 +1,4 @@
-  Foundations of Cybersecurity
+##  Foundations of Cybersecurity
 
 What is Cybersecurity
 Cybersecurity is the practice of protecting systems, networks, and data from digital attacks. These attacks aim to access, alter, or destroy information, disrupt operations, or extort money.
@@ -28,7 +28,7 @@ Required for compliance and regulations
 
 
 
-  Cybersecurity Roles & Responsibilities
+##  Cybersecurity Roles & Responsibilities
 
 Security Teams
 SOC (Security Operations Center) – Monitors alerts and responds to incidents
@@ -63,7 +63,7 @@ Follow laws and company policies
 
 
 
-  Security Frameworks & Controls
+##  Security Frameworks & Controls
 
 Security Frameworks
 NIST Cybersecurity Framework
@@ -89,7 +89,7 @@ Critical for incident response, compliance, communication, and improving securit
 
 
 
-  Networking & System Security Basics
+##  Networking & System Security Basics
 
 Networking Fundamentals
 Computers communicate using IP addresses and ports
@@ -105,7 +105,7 @@ Keep software updated
 Use strong passwords and MFA
 Limit user access to only what’s necessary
 
-  Security Operations & Incident Response
+##  Security Operations & Incident Response
 
 Security Operations
 SOC analysts monitor alerts and escalate incidents
@@ -119,7 +119,7 @@ Eradicate – remove threat
 Recover – restore systems
 Lessons learned – improve security
 
-  Threats & Vulnerabilities
+##  Threats & Vulnerabilities
 
 Common Threats
 Malware, phishing, ransomware, insider threats
@@ -131,7 +131,7 @@ Use firewalls & antivirus
 Train users
 Monitor logs for unusual behavior
 
-  Connect and Protect: Networks and Network Security
+##  Connect and Protect: Networks and Network Security
 
 Network Security Essentials
 Firewalls, IDS/IPS, VPNs
@@ -143,7 +143,7 @@ Understand TCP/IP and protocols
 Use security devices to protect assets
 Apply security principles to network design
 
-  Put It to Work: Prepare for Cybersecurity Jobs
+##  Put It to Work: Prepare for Cybersecurity Jobs
 
 Resume & LinkedIn
 Highlight certificate and hands-on labs
@@ -160,7 +160,7 @@ Track applications and follow up consistently
 
 
 
-  Accelerate Your Job Search with AI
+##  Accelerate Your Job Search with AI
 
 Use AI Tools
 Polish resumes & cover letters
@@ -173,7 +173,7 @@ Combine AI with networking and real-world labs
 
 
 
-  Automate Cybersecurity Tasks with Python
+##  Automate Cybersecurity Tasks with Python
 
 Why Automate
 Save time on repetitive tasks
