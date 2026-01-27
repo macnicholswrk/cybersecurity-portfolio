@@ -1,0 +1,6 @@
+[2026-01-27 12:00:00] [INFO] System started
+[2026-01-27 12:05:01] [WARNING] Low disk space
+[2026-01-27 12:10:15] [ERROR] Failed login attempt
+[2026-01-27 12:12:30] [INFO] User logged in
+[2026-01-27 12:15:00] [ERROR] Network connection lost
+[2026-01-27 12:20:45] [INFO] System shutdown
