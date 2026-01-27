@@ -1,14 +1,8 @@
-
-"""
-log_parse.py
-A simple Python log parser for cybersecurity portfolio projects.
-"""
-
 import re
 import csv
 import argparse
 
-# Regex pattern for a generic log line: [timestamp] [LEVEL] message
+# Generic pattern [timestamp] [LEVEL] message
 LOG_PATTERN = re.compile(r'\[(.*?)\]\s+\[(.*?)\]\s+(.*)')
 
 def parse_log(file_path):
