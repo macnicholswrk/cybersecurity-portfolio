@@ -1,0 +1,10 @@
+[2026-01-27 08:55:12] [INFO] System startup complete
+[2026-01-27 09:01:43] [INFO] User admin logged in
+[2026-01-27 09:05:10] [WARNING] Disk usage at 85%
+[2026-01-27 09:07:22] [ERROR] Failed login attempt for user guest
+[2026-01-27 09:07:45] [ERROR] Failed login attempt for user guest
+[2026-01-27 09:08:01] [ERROR] Unauthorized access attempt detected
+[2026-01-27 09:12:30] [INFO] Scheduled backup completed
+[2026-01-27 09:15:47] [WARNING] Multiple login failures detected
+[2026-01-27 09:20:09] [ERROR] Network connection denied by firewall
+[2026-01-27 09:25:55] [INFO] System health check passed
