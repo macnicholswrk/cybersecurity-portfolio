@@ -1,0 +1,5 @@
+Suspicious Alerts:
+[2026-01-27 09:07:22] [ERROR] Failed login attempt for user guest
+[2026-01-27 09:07:45] [ERROR] Failed login attempt for user guest
+[2026-01-27 09:08:01] [ERROR] Unauthorized access attempt detected
+[2026-01-27 09:20:09] [ERROR] Network connection denied by firewall
