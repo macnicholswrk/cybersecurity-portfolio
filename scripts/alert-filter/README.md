@@ -1,0 +1,1 @@
+alert_filter.py is a Python script that scans log files for suspicious activity by looking for predefined keywords such as "failed", "unauthorized", "denied", and "login attempt". The script prints alerts to the console and can optionally save them to a CSV file.
