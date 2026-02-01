@@ -1,15 +1,15 @@
-**SOC Level 1 – Alert Triage Lab Notes**
+*SOC Level 1 – Alert Triage Lab Notes*
 
 Platform: TryHackMe – 2026
 Lab Type: Hands-on SOC / Security Operations Center lab
 ---
-*Objective*
+**Objective**
 
 Practice monitoring and triaging security alerts.
 
 Learn how to prioritize alerts, investigate suspicious activity, and document findings.
 ---
-*Steps Completed*
+**Steps Completed**
 
 Reviewed the SOC dashboard and counted all active alerts.
 
@@ -30,7 +30,7 @@ Processed alerts in priority order, not strictly by age.
 Assigned yourself to the first-priority alert and updated its status to In Progress.
 ---
 
-*Skills Practiced*
+**Skills Practiced**
 
 Alert monitoring and triage workflow
 
@@ -40,7 +40,7 @@ Incident response and prioritization
 
 Documentation of findings
 ---
-*Key Takeaways*
+**Key Takeaways**
 
 Real-world SOC workflows require quick assessment and prioritization of alerts.
 
