@@ -1,0 +1,1 @@
+log_parser.py is a Python script designed to parse and analyze structured log files. It extracts timestamps, log levels, and messages, counts occurrences of each log level, and optionally exports the results to a CSV file.
