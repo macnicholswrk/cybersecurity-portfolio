@@ -1,4 +1,4 @@
-*SOC Level 1 – Alert Triage Lab Notes*
+**SOC Level 1 – Alert Triage Lab Notes**
 
 Platform: TryHackMe – 2026
 Lab Type: Hands-on SOC / Security Operations Center lab
@@ -27,7 +27,7 @@ Prioritized medium severity alerts over low severity.
 
 Processed alerts in priority order, not strictly by age.
 
-Assigned yourself to the first-priority alert and updated its status to In Progress.
+Assigned myself to the first-priority alert and updated its status to In Progress.
 ---
 
 **Skills Practiced**
