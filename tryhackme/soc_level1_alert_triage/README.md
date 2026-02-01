@@ -1,0 +1,1 @@
+This lab simulates a Security Operations Center (SOC) environment where alerts are monitored, investigated, and triaged. The goal is to practice alert prioritization, incident response workflows, and SOC decision-making.
